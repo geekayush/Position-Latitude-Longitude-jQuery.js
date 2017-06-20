@@ -1,0 +1,18 @@
+body {
+    background-color: #7e3878;
+    color: white;
+    font-size: 3em;
+    font-family: 'Lato', sans-serif;
+}
+
+#data {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+h2 {
+    position: absolute;
+    top: 5%;
+    left: 8%
+}
